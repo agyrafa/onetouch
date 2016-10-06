@@ -1,0 +1,22 @@
+#oneTouch > .video > iframe {
+	left: 25%;
+}
+#oneTouch > .video > div.left {
+	background-color: #4E7192;
+}
+#oneTouch > .video > div.right {
+	right: 0;
+	background-color: #4E7192;
+}
+#oneTouch > .products ul li img {
+	margin: auto;
+	position: absolute;
+	bottom: 0;
+	left: 25%;
+}
+#oneTouch > .top .left h2 span {
+	left: 70%;
+}
+#oneTouch > .escolha-melhor h2 {
+	width: 57%;
+}
